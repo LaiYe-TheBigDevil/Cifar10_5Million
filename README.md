@@ -34,7 +34,7 @@ For the first part of training (CV on model structures), run
 python train_cv1.py
 ```
 
-This should generate a "scores_cv1.csv" in the current folder. The scores should look like this table, where each column represents a fold.
+This should generate a "scores_cv1.csv" in the current folder. The scores should look like this table, where each column represents a fold and each row corresponds to a model.
 
 |  |  |  |  |  |
 |----------|----------|----------|----------|----------|
